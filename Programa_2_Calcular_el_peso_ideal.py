@@ -1,5 +1,5 @@
 #Calcular el peso ideal
-print("Este programa determina su peso ideal y le dice si está sobrepeso")
+print("Este programa determina su peso ideal y le dice si está saludable o no")
 print("Ingrese su peso actual ")
 peso_actual = int(input())
 print("Ingrese su altura actual ")
